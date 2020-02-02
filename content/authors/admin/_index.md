@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Google Student Developer Club
 
 # Username (this should match the folder name)
 authors:
