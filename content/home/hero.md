@@ -20,7 +20,7 @@ title = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
+  gradient_start = "#4285F4"
   gradient_end = "#2b94c3"
   
   # Background image.
