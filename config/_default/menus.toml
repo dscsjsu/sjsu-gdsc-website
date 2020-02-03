@@ -18,10 +18,10 @@
   url = "#talks"
   weight = 30
 
-[[main]]
-  name = "Tools"
-  url = "/tools"
-  weight = 40
+#[[main]]
+  #name = "Tools"
+  #url = "/tools"
+  #weight = 40
 
 #[[main]]
   #name = "Contact"

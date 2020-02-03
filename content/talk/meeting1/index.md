@@ -12,7 +12,7 @@ location: Student Union Meeting Room ?
 #   country: United States
 
 summary: Inaugural meeting of Google Student Developer Club SJSU chapter
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "We are looking forward to an amazing Spring 2020 semester. We will share with everyone about the club, and the information of new exciting challenge by Google -- Solution Challenge 2020. Everyone are welcome! We will confirm the time of the meeting. Invite your friends!"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -30,8 +30,10 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  placement: 1
+  caption: ''
   focal_point: Right
+  preview_only: false
 
 links:
 # - icon: twitter

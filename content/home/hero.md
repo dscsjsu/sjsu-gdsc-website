@@ -38,7 +38,7 @@ title = ""
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://www.google.com/forms/about/"
-  label = "Join Us!"
+  label = "Become a member"
   icon_pack = "fas"
   icon = "user-plus"
   
