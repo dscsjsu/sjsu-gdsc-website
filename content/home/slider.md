@@ -34,17 +34,17 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "user-plus"
 
-[[item]]
-  title = "Solution Challenge 2020"
-  content = "Develop solutions for local community problems"
-  align = "left"
+#[[item]]
+  #title = "Solution Challenge 2020"
+  #content = "Develop solutions for local community problems"
+  #align = "left"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "sliders/slider4.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter =  0.4 #Darken the image. Value in range 0-1.
+  #overlay_color = "#555"  # An HTML color value.
+  #overlay_img = "sliders/slider4.jpg"  # Image path relative to your `static/img/` folder.
+  #overlay_filter =  0.4 #Darken the image. Value in range 0-1.
 
-  cta_label = "Registrations Open \n"
-  cta_url = "https://events.withgoogle.com/dsc-solution-challenge/"
-  cta_icon_pack = ""
-  cta_icon = ""
+  #cta_label = "Registrations Open \n"
+  #cta_url = "https://events.withgoogle.com/dsc-solution-challenge/"
+  #cta_icon_pack = ""
+  #cta_icon = ""
 +++

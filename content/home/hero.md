@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-# hero_media = "hero-academic.png"
+# hero_media = "logogsdcsjsu.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,18 +17,18 @@ title = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "white"
   
   # Background gradient.
-  gradient_start = "#4285F4"
-  gradient_end = "#2b94c3"
+   gradient_start = "#4285F4"
+   gradient_end = "#2b94c3"
   
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image = "gsdcheader2.png"  # Name of image in `static/img/`.
+  # image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -42,16 +42,18 @@ title = ""
   icon_pack = "fas"
   icon = "user-plus"
   
-[cta_alt]
-  url = "#about"
-  label = "or get to know us"
+#[cta_alt]
+  #url = "#about"
+  #label = "or get to know us"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**Google Student Developer Club**
+<!-- **Google Student Developer Club**
+
+San Jose State University Chapter -->
 
 <!-- Build **Anything** with Widgets
 
