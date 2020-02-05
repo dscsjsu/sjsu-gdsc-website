@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Mahima Agumbe Suresh
+name: Mahima Suresh
 
 # Username (this should match the folder name)
 authors:

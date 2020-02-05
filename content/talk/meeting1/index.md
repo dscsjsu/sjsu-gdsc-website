@@ -3,7 +3,7 @@ title: Spring 2020 Info Session Meeting
 # event: Weekly Meeting
 # event_url: ""
 
-location: Student Union Meeting Room ?
+location: Student Union Meeting Room 4B
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -16,8 +16,8 @@ abstract: "We are looking forward to an amazing Spring 2020 semester. We will sh
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-02-14T00:00:00Z"
-date_end: "2020-02-14T00:00:00Z"
+date: "2020-02-14T18:00:00Z"
+date_end: "2020-02-14T19:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

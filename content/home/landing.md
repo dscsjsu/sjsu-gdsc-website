@@ -1,12 +1,14 @@
 +++
 widget = "landing"  # The name of the widget that you created.
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear in.
+weight = 9  # Order that this section will appear in.
+
+
 
 [design.background]
   # Background color.
-  # color = "grey"
+   color = "white"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -24,14 +26,16 @@ weight = 1  # Order that this section will appear in.
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["0", "0", "0", "0"]
 
 [advanced]
  # Custom CSS. 
+ # vh is viewport height, vw is viewport width
  # css_style = "height: calc(100vh - 70px)"
+ css_style = "height: calc(100vh - 70px)"
+
  
  # CSS class.
- css_class = ""
+ css_class = "particles-js" 
 +++
-
 Everything is awesome!
