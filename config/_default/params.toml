@@ -41,7 +41,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Google Student Developer Club San Jose State University Chapter"
+org_name = "Google Developer Student Club San Jose State University Chapter"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Official Website for Google Student Developer Club for San Jose State University Chapter"
