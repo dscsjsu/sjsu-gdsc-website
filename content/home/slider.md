@@ -29,8 +29,8 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Join us"
-  cta_url = "https://www.google.com/forms/about/"
+  cta_label = "Join as member"
+  cta_url = "https://forms.gle/atgyZabccs533iAN9"
   cta_icon_pack = "fas"
   cta_icon = "user-plus"
 
