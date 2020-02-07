@@ -23,11 +23,11 @@ bio: n/a
 #interests:
 #- n/a
 
-education:
-  courses:
-  - course: BS Computer Software Engineering
-    institution: San Jose State University
-    year: 2021
+# education:
+#   courses:
+#   - course: BS Computer Software Engineering
+#     institution: San Jose State University
+#     year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
