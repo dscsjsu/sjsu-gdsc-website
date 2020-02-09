@@ -5,8 +5,8 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Tools"
-subtitle = ""
+title = "Resources"
+subtitle = "Compilations of resources and opportunities available from Google for SJSU university students"
 
 [content]
   # Page type to display. E.g. project.
@@ -26,12 +26,18 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+     name = "Developer Tools"
+     tag = "Developer Tools"
+
+   [[content.filter_button]]
+     name = "Competitions"
+     tag = "Competitions"
   
    [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+     name = "Google Events"
+     tag = "Events"
+
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
