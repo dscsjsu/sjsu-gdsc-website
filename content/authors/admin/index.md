@@ -7,14 +7,13 @@ authors:
 - admin
 
 # Is this the primary user of the site?
-superuser: true
-
+superuser: false
 # Role/position
 role: Administrator
 
 # Organizations/Affiliations
 organizations:
-- name: Google Student Developer Club San Jose State University
+- name: "Google Developer Student Club SJSU"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

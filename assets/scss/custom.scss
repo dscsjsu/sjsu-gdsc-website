@@ -76,3 +76,50 @@
 }
 
 /*--- scroll down icon button finished here ---*/
+
+
+#profile .network-icon {
+  margin-top: 30px;
+}
+
+.network-icon li {
+  margin-right: 10px;
+}
+
+.network-icon li:last-of-type {
+  margin-right: 0;
+}
+
+.network-icon li:hover {
+  transform: scale(1.2)
+}
+
+.big-icon {
+  font-size: 3rem;
+}
+
+ul.ul-interests li {
+  font-size: 0.9rem;
+}
+
+ul.ul-edu {
+  list-style: none;
+}
+
+ul.ul-edu li {
+  position: relative;
+  padding: 0px 15px 4px 3px;
+}
+
+ul.ul-edu li .description p {
+  margin: 0;
+}
+
+ul.ul-edu li .description p.course {
+  font-size: 0.9rem;
+}
+
+ul.ul-edu li .description p.institution {
+  font-size: 0.75rem;
+  color: rgba(0,0,0,0.6);
+}
