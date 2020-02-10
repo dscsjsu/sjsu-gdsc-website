@@ -34,3 +34,8 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+[[main_right]]
+  name = "dummy"
+  url = "https://dummy.com"
+  weight = 10
