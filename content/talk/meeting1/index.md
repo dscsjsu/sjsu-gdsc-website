@@ -1,7 +1,7 @@
 ---
 title: Spring 2020 Info Session Meeting
-# event: Weekly Meeting
-# event_url: ""
+event: Eventbrite ticket
+event_url: "https://www.eventbrite.com/e/google-dsc-information-session-tickets-93176684973"
 
 location: Student Union Meeting Room 4B
 # address:

@@ -32,4 +32,7 @@ subtitle = ""
   name = "Grow"
   description = "Apply your new learnings and connections to build great solutions for local problems. Advance your skills, career and network. Give back to your community by helping others learn as well."
 
+[advanced]
+ css_style = ""
+ css_class = ""
 +++

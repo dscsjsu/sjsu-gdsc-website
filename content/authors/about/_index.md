@@ -1,48 +1,56 @@
 ---
 # Display name
-name: Arpit Sharma
+name: 
 
 # Username (this should match the folder name)
 authors:
-- arpitsharma
+- about
 
 # Is this the primary user of the site?
 superuser: false
-
 # Role/position
-role: President
+role: 
 
 # Organizations/Affiliations
 organizations:
-- name: San Jose State University
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: 
 
-#interests:
-#- n/a
+# interests:
+# - 
 
-education:
-  courses:
-  - course: MS Computer Software Engineering
-    institution: San Jose State University
-    year: 2020
+# education:
+#   courses:
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-  #icon_pack: fas
-  #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:developerstudentclub.sjsu@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: facebook-square
   icon_pack: fab
-  link: https://www.linkedin.com/in/arpitsharmacs/
+  link: 
+- icon: twitter
+  icon_pack: fab
+  link: 
+- icon: instagram
+  icon_pack: fab
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com
+  link: https://github.com/dscsjsu
+- icon: slack
+  icon_pack: fab
+  link: https://googledsc.slack.com/join/shared_invite/enQtOTM0ODgyOTk0NjMxLTZhOGI3NjIzOTNhZmE5MWUzODUzMzg5YWZhY2JiZDQ5ZjU0OTgwZGVhM2EwOGNlZDM3N2VjNGI2NDkzZjkwYzg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,6 +63,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Leadership
+- About
 ---
 
+Developer Student Clubs are university based community groups for students interested in Google developer technologies and grow as a developer. 
+
+At SJSU, we host tecnical workshops on Google developer tools to grow knowledge in a peer-to-peer learning environment.
