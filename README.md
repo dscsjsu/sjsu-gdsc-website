@@ -68,9 +68,28 @@ git branch -d branchname
 
 ## Understanding the architecture
 
-This website is built using the [Academic](https://sourcethemes.com/academic/) using [Hugo](https://gohugo.io) static website generator. 
+This website is built using the [Academic](https://sourcethemes.com/academic/) on [Hugo](https://gohugo.io) static website generator. 
 
-
+```bash
+├── app
+│   ├── css
+│   │   ├── **/*.css
+│   ├── favicon.ico
+│   ├── images
+│   ├── index.html
+│   ├── js
+│   │   ├── **/*.js
+│   └── partials/template
+├── dist (or build)
+├── node_modules
+├── bower_components (if using bower)
+├── test
+├── Gruntfile.js/gulpfile.js
+├── README.md
+├── package.json
+├── bower.json (if using bower)
+└── .gitignore
+```
 
 
 
