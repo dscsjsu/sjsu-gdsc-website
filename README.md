@@ -70,7 +70,7 @@ git branch -d branchname
 
 This website is built using the [Academic](https://sourcethemes.com/academic/) theme on [Hugo](https://gohugo.io) static website generator. 
 
-Hugo prioritize all files in the that's not in the ./themes folder. If such file does not exist, then it will run the file from `./themes` folder. 
+Hugo prioritize all the files that's not in the `./themes` folder. If such file does not exist, then it will run the file from `./themes` folder. 
 
 So, `./themes` contains the default design of the website. and the files outsides of the `./themes` folder are the contents of the website.
 
@@ -79,6 +79,9 @@ Identify the right css script, copy/paste it into the `./assets/scss/custom.scss
 
 This theme is using a widget system. A page can contain one or multiple widgets which are the sections of the page. 
 
+Edit the markdown file in the `./content` folder accordingly to add more contents. 
+
+Below are the important directory for this website. 
 ```bash
 ├── assets
 │   ├── js #put all custom local js in this folder
