@@ -24,7 +24,7 @@ hugo server
 
 1. Make sure your local repo is the latest update.
 2. Create a branch, code, push to your branch and make a pull request. 
-3. Admin will review the pull request and merge it with master branch. 
+3. Design team will review the pull request and merge it with master branch. 
 
 Some useful git commands:
 
@@ -53,6 +53,16 @@ Code. Then push to your branch
 ```
 git add .
 git commit -m 'your message here'
-git push origin `branchname`
+git push origin branchname
+```
+
+Go to online github repo, and create pull request. 
+Design team will review, merge to master branch and delete the branch.
+After the pull request is merged. Proceed to update your local repo and delete the local branch. 
+
+```
+git checkout master
+git pull origin master
+git branch -d branchname
 ```
 
