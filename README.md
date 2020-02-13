@@ -66,29 +66,49 @@ git pull origin master
 git branch -d branchname
 ```
 
-## Understanding the architecture
+## Understanding the structure
 
 This website is built using the [Academic](https://sourcethemes.com/academic/) theme on [Hugo](https://gohugo.io) static website generator. 
 
+Hugo prioritize all files in the that's not in the ./themes folder. If such file does not exist, then it will run the file from `./themes` folder. 
+
+So, `./themes` contains the default design of the website. and the files outsides of the `./themes` folder are the contents of the website.
+
+Therefore, in order to edit/update the design of the website, you must identify the correct html files and the css scripts. Copy/paste the html files from the `./themes/academic/layouts` folder and put it in the the root directory `./layouts` folder. 
+Identify the right css script, copy/paste it into the `./assets/scss/custom.scss` file. Edit the html file and the css script. 
+
+This theme is using a widget system. A page can contain one or multiple widgets which are the sections of the page. 
+
 ```bash
 ├── assets
-│   ├── images
-│   ├── js
+│   ├── js #put all custom local js in this folder
 │   └── scss
-│       └── custom.scss #all custom css is here
+│       └── custom.scss #all custom css files are in here
+│
 ├── config
 │   └── _default
 │       ├── menus.toml #to add/hide navbar menu
 │       └── params.toml 
-├── dist (or build)
-├── node_modules
-├── bower_components (if using bower)
-├── test
-├── Gruntfile.js/gulpfile.js
-├── README.md
-├── package.json
-├── bower.json (if using bower)
-└── .gitignore
+│
+├── content
+│   ├── authors #default folder for adding user or people in the team
+│   ├── project #default folder for adding resources for resources page (tools) page
+│   ├── talk #default folder to add events
+│   ├── home #A page -- a homepage that has multiple section of "widgets" in .md file
+│   └── tools # A page -- a custom page. To create a page, just create a folder in ./content
+│
+├── layouts # all updated html files
+│
+├── static
+│   └── img #all static images are in here
+│
+└── themes
+    └── academic # academic theme templating
+        └── layouts 
+            └── partials 
+                └── widgets #to add/edit the html design of each widgetr section. Copy from here
+                            #and paste in ./layouts/ accordingly with the same hierarchy
+
 ```
 
 
