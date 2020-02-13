@@ -26,7 +26,7 @@ hugo server
 2. Create a branch, code, push to your branch and make a pull request. 
 3. Design team will review the pull request and merge it with master branch. 
 
-Some useful git commands:
+Some basic git commands:
 
 
 Make sure your local repo is the up-to-date.
@@ -65,4 +65,12 @@ git checkout master
 git pull origin master
 git branch -d branchname
 ```
+
+## Understanding the architecture
+
+This website is built using the [Academic](https://sourcethemes.com/academic/) using [Hugo](https://gohugo.io) static website generator. 
+
+
+
+
 
