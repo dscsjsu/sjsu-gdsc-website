@@ -71,15 +71,14 @@ git branch -d branchname
 This website is built using the [Academic](https://sourcethemes.com/academic/) on [Hugo](https://gohugo.io) static website generator. 
 
 ```bash
-├── app
-│   ├── css
-│   │   ├── **/*.css
-│   ├── favicon.ico
+├── assets
 │   ├── images
-│   ├── index.html
 │   ├── js
-│   │   ├── **/*.js
-│   └── partials/template
+│   └── scss
+├── config
+│   └── _default
+│       ├── menus.toml
+│       └── params.toml //test
 ├── dist (or build)
 ├── node_modules
 ├── bower_components (if using bower)
