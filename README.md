@@ -68,17 +68,18 @@ git branch -d branchname
 
 ## Understanding the architecture
 
-This website is built using the [Academic](https://sourcethemes.com/academic/) on [Hugo](https://gohugo.io) static website generator. 
+This website is built using the [Academic](https://sourcethemes.com/academic/) theme on [Hugo](https://gohugo.io) static website generator. 
 
 ```bash
 ├── assets
 │   ├── images
 │   ├── js
 │   └── scss
+│       └── custom.scss #all custom css is here
 ├── config
 │   └── _default
-│       ├── menus.toml
-│       └── params.toml //test
+│       ├── menus.toml #to add/hide navbar menu
+│       └── params.toml 
 ├── dist (or build)
 ├── node_modules
 ├── bower_components (if using bower)
