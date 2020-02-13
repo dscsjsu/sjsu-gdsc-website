@@ -34,4 +34,25 @@ Make sure your local repo is the up-to-date.
 git pull origin master
 ```
 
+See branch
+```
+git branch
+```
+
+Create branch
+```
+git branch branchname
+```
+
+Change branch
+```
+git checkout branchname
+```
+
+Code. Then push to your branch
+```
+git add .
+git commit -m 'your message here'
+git push origin `branchname`
+```
 
