@@ -4,9 +4,26 @@
 ## Run in your local
 
 ```
+git clone https://github.com/dscsjsu/sjsu-gdsc-website.git 
+```
+
+```
 brew install hugo
 ```
 
 ```
 hugo server
+```
+
+
+## To contribute
+
+1. Make sure your local repo is the latest update.
+2. Create a branch, code, push to your branch and make a pull request. 
+3. Admin will review the pull request and merge it with master. 
+
+Some useful git command line
+
+```
+$ git pull origin master
 ```
