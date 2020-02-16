@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Spring 2020 Info Session"
-  content = "Feb 14th, 6:00 PM 📢"
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
