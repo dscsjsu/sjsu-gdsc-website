@@ -3,7 +3,7 @@ title: Study Jam
 event: ""
 event_url: ""
 
-location: time and ocation TBD
+location: time and location TBD
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
