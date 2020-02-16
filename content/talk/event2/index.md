@@ -1,9 +1,9 @@
 ---
-title: Spring 2020 Info Session Meeting
+title: gRPC Workshop
 event: Eventbrite ticket
-event_url: "https://www.eventbrite.com/e/google-dsc-information-session-tickets-93176684973"
+event_url: "https://www.eventbrite.com/e/grpc-workshop-google-developers-student-club-tickets-95008465879"
 
-location: Student Union Meeting Room 4B
+location: DMH-150, Dudley Moorhead Hall
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -11,17 +11,17 @@ location: Student Union Meeting Room 4B
 #   postcode: '94305'
 #   country: United States
 
-summary: Inaugural meeting of Google Student Developer Club SJSU chapter
-abstract: "We are looking forward to an amazing Spring 2020 semester. We will share with everyone about the club, and the information of new exciting challenge by Google -- Solution Challenge 2020. Everyone are welcome! We will confirm the time of the meeting. Invite your friends!"
+summary: Introduction and hands-on workshop on gRCP
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-02-14T18:00:00Z"
-date_end: "2020-02-14T19:30:00Z"
+date: "2020-02-21T14:00:00Z"
+date_end: "2020-02-21T16:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-02-02T21:00:00Z"
+publishDate: "2020-02-15T18:00:00Z"
 
 authors: []
 tags: []
@@ -64,4 +64,13 @@ projects:
 math: true
 
 ---
+# Agenda
 
+1. What is gRPC?
+  * Why is there a need for gRPC?
+  * How it works?
+  * REST v/s gRPC
+2. gRPC Protocol Buffers
+3. Getting Started with gRPC(Hello world) - [ Hands-on ]
+4. Using gRPC streaming to upload a large file(1GB) - [ Hands-on ]
+5. gRPC for Microservices Communication

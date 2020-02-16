@@ -1,9 +1,9 @@
 ---
-title: Spring 2020 Info Session Meeting
-event: Eventbrite ticket
-event_url: "https://www.eventbrite.com/e/google-dsc-information-session-tickets-93176684973"
+title: Study Jam
+event: ""
+event_url: ""
 
-location: Student Union Meeting Room 4B
+location: time and ocation TBD
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -11,17 +11,17 @@ location: Student Union Meeting Room 4B
 #   postcode: '94305'
 #   country: United States
 
-summary: Inaugural meeting of Google Student Developer Club SJSU chapter
-abstract: "We are looking forward to an amazing Spring 2020 semester. We will share with everyone about the club, and the information of new exciting challenge by Google -- Solution Challenge 2020. Everyone are welcome! We will confirm the time of the meeting. Invite your friends!"
+summary: Cloud Study Jam and get hands-on experience with Google Cloud Platform Essentials
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-02-14T18:00:00Z"
-date_end: "2020-02-14T19:30:00Z"
-all_day: false
+date: "2020-03-06T18:00:00Z"
+date_end: "2020-03-06T19:30:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-02-02T21:00:00Z"
+publishDate: "2020-02-15T18:10:00Z"
 
 authors: []
 tags: []
@@ -64,4 +64,3 @@ projects:
 math: true
 
 ---
-
