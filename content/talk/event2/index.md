@@ -11,7 +11,7 @@ location: DMH-150, Dudley Moorhead Hall
 #   postcode: '94305'
 #   country: United States
 
-summary: Introduction and hands-on workshop on gRCP
+summary: Introduction and hands-on workshop on gRPC
 abstract: ""
 
 # Talk start and end times.
