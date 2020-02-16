@@ -52,9 +52,9 @@ social:
   icon_pack: fab
   link: https://github.com/dscsjsu
   #color: 333
-#- icon: slack
-  #icon_pack: fab
-  #link: https://googledsc.slack.com/join/shared_invite/enQtOTM0ODgyOTk0NjMxLTZhOGI3NjIzOTNhZmE5MWUzODUzMzg5YWZhY2JiZDQ5ZjU0OTgwZGVhM2EwOGNlZDM3N2VjNGI2NDkzZjkwYzg
+- icon: slack
+  icon_pack: fab
+  link: https://googledsc.slack.com/join/shared_invite/enQtOTM0ODgyOTk0NjMxLTZhOGI3NjIzOTNhZmE5MWUzODUzMzg5YWZhY2JiZDQ5ZjU0OTgwZGVhM2EwOGNlZDM3N2VjNGI2NDkzZjkwYzg
   #color: 3AAE84
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
