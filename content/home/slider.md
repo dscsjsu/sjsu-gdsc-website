@@ -44,7 +44,7 @@ height = ""
   overlay_filter =  0.4 #Darken the image. Value in range 0-1.
 
   cta_label = "Registrations Open \n"
-  cta_url = "https://events.withgoogle.com/dsc-solution-challenge/"
+  cta_url = "https://forms.gle/WpT6epxZKCNZyD9X6"
   cta_icon_pack = ""
   cta_icon = ""
 +++
