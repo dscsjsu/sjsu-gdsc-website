@@ -68,7 +68,7 @@ git branch -d branchname
 
 ## Understanding the structure
 
-This website is built using the [Academic](https://sourcethemes.com/academic/) theme on [Hugo](https://gohugo.io) static website generator. 
+This website was built with the [Academic](https://sourcethemes.com/academic/) theme on [Hugo](https://gohugo.io) static website generator hosted on [Github](https://github.com/dscsjsu/sjsu-gdsc-website) served by [Netlify](https://www.netlify.com).
 
 Hugo prioritize all the files that's not in the `./themes` folder. If such file does not exist, then it will run the file from `./themes` folder. 
 
