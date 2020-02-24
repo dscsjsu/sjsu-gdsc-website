@@ -3,7 +3,7 @@ title: Study Jam
 event: ""
 event_url: ""
 
-location: time and location TBD
+location: TBD
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -16,9 +16,9 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-03-06T18:00:00Z"
-date_end: "2020-03-06T19:30:00Z"
-all_day: true
+date: "2020-03-06T14:00:00Z"
+date_end: "2020-03-06T17:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-02-15T18:10:00Z"
