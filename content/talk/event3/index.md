@@ -3,7 +3,7 @@ title: Study Jam
 event: "Eventbrite ticket"
 event_url: "https://www.eventbrite.com/e/google-cloud-study-jam-google-developer-student-club-sjsu-tickets-97473625237"
 
-location: DMH-150
+location: DMH-150, Dudley Moorhead Hall
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
