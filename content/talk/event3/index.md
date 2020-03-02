@@ -1,7 +1,7 @@
 ---
 title: Study Jam
-event: ""
-event_url: ""
+event: "Eventbrite ticket"
+event_url: "https://www.eventbrite.com/e/google-cloud-study-jam-google-developer-student-club-sjsu-tickets-97473625237"
 
 location: DMH-150
 # address:
