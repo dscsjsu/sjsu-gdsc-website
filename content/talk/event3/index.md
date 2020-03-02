@@ -64,3 +64,20 @@ projects:
 math: true
 
 ---
+
+A Workshop for Beginners with little or no prior knowledge of Cloud
+
+For more details, check [GCP Essentials on Qwiklabs](https://www.qwiklabs.com/quests/23)
+
+## About this Event
+In this introductory-level quest, you will get hands-on practice with the Google Cloud Platform’s fundamental tools and services. GCP Essentials is the recommended first Quest for the Google Cloud learner—you will come in with little or no prior cloud knowledge, and come out with practical experience that you can apply to your first GCP project. From writing Cloud Shell commands and deploying your first virtual machine, to running applications on Kubernetes Engine or with load balancing, GCP Essentials is a prime introduction to the platform’s basic features. 1-minute videos walk you through key concepts for each lab.
+
+## Prerequisites:
+
+This Quest assumes little to no prior knowledge in cloud computing or with the Google Cloud Platform. It is expected that students have an information technology or computing background, and have some hands-on familiarity with administering computing systems. Prior work with shell environments / command line interfaces will be helpful for completing the labs in this series.
+
+## Note:
+
+1. Only currently enrolled students of SJSU with ID and Eventbrite tickets will be allowed in the event.
+
+2. Two consecutive occurrences of registering and not showing up will terminate your membership and you will not be able to become a member for next 6 months. Please cancel the registration from link "View and manage your order online" on your Eventbrite confirmation email 24 hrs prior to the event.
