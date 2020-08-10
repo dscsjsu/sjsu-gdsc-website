@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Design Associate Lead
+role: Design Lead
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ bio: n/a
 
 education:
   courses:
-  - course: MS Engineering - Applied Computing
+  - course: MS Engineering, Software Engineering
     institution: San Jose State University
     year: 2020
 
