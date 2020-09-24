@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Technical Associate Lead
+role: Community Outreach Lead
 
 # Organizations/Affiliations
 organizations:
@@ -55,6 +55,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Technical
+- Community Outreach and Recruitment
 ---
 
