@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Shafie Mukhre
+name: Divya Dhavala
 
 # Username (this should match the folder name)
 authors:
@@ -23,11 +23,11 @@ bio: n/a
 #interests:
 #- n/a
 
-education:
-  courses:
-  - course: MS Engineering, Software Engineering
-    institution: San Jose State University
-    year: 2020
+# education:
+#   courses:
+#   - course: MS Computer Software Engineering
+#     institution: San Jose State University
+#     year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,10 +39,10 @@ social:
   #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/shafiemukhre
+  link: https://www.linkedin.com/in/divya-dhavala/
 - icon: github
   icon_pack: fab
-  link: https://github.com/shafiemukhre
+  link: https://github.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
