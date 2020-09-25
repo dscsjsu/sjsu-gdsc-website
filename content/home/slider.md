@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Spring 2020 Info Session"
+  title = "Fall 2020 Info Session"
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Join as member"
-  cta_url = "https://forms.gle/atgyZabccs533iAN9"
+  cta_url = "https://bit.ly/dscsjsu"
   cta_icon_pack = "fas"
   cta_icon = "user-plus"
 
