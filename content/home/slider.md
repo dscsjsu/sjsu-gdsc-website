@@ -35,7 +35,7 @@ height = ""
   cta_icon = "user-plus"
 
 [[item]]
-  title = "Solution Challenge 2020"
+  title = "Solution Challenge 2021"
   content = "Develop solutions for local community problems"
   align = "left"
 
@@ -44,7 +44,7 @@ height = ""
   overlay_filter =  0.4 #Darken the image. Value in range 0-1.
 
   cta_label = "Registrations Open \n"
-  cta_url = "https://forms.gle/WpT6epxZKCNZyD9X6"
+  cta_url = "http://bit.ly/solutionchallengesjsu2021"
   cta_icon_pack = ""
   cta_icon = ""
 +++
